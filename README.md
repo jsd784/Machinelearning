@@ -1,6 +1,6 @@
 # Machine Learning Portfolio 
 
-Please contact me:
+Contact Info:
 
 <b>Name</b>: Jasvir Dhillon <br />
 <b>Email</b>: jsd784@gmail.com <br />
