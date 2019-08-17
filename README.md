@@ -1,5 +1,13 @@
 # Machine Learning Portfolio 
 
+Please contact me:
+
+<b>Name</b>: Jasvir Dhillon <br />
+<b>Email</b>: jsd784@gmail.com <br />
+
+Any suggestions or comments are welcome.
+
+---
 
 ## 1. Breast Cancer Classification using SVM classifier
 
@@ -18,3 +26,7 @@ ftp ftp.cs.wisc.edu
 cd math-prog/cpo-dataset/machine-learn/WDBC/
 
 #### [Click here for case study](https://github.com/jsd784/Machinelearning/blob/master/BreastCancerClassification/BreastCancerClassification.ipynb)
+
+---
+
+More projects coming soon ...
