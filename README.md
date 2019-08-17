@@ -17,4 +17,4 @@ This database is also available through the UW CS ftp server:
 ftp ftp.cs.wisc.edu 
 cd math-prog/cpo-dataset/machine-learn/WDBC/
 
-#### [Click here for case study]()
+#### [Click here for case study](https://github.com/jsd784/Machinelearning/blob/master/BreastCancerClassification/BreastCancerClassification.ipynb)
